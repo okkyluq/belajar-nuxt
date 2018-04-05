@@ -2,7 +2,7 @@ module.exports = {
   /*
   ** Headers of the page
   */
-  // mode: 'spa',
+  mode: 'spa',
   head: {
     title: 'tes-nuxt',
     meta: [
